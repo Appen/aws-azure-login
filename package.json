@@ -28,7 +28,7 @@
     "test": "yarn eslint && yarn prettier:check"
   },
   "dependencies": {
-    "aws-sdk": "^2.824.0",
+    "aws-sdk": "^2.1657.0",
     "bluebird": "^3.7.2",
     "cheerio": "1.0.0-rc.5",
     "commander": "^6.2.1",
